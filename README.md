@@ -26,9 +26,9 @@ Get the latest version from the [Releases](https://github.com/Moshiour027/octa-r
 | Platform | Download |
 |----------|----------|
 | macOS (Apple Silicon) | [Octa_0.1.0_aarch64.dmg](https://github.com/Moshiour027/octa-releases/releases/latest/download/Octa_0.1.0_aarch64.dmg) |
-| macOS (Intel) | Coming soon |
-| Windows | Coming soon |
-| Linux | Coming soon |
+| macOS (Intel) | [Octa_0.1.0_x64.dmg](https://github.com/Moshiour027/octa-releases/releases/latest/download/Octa_0.1.0_x64.dmg) |
+| Windows | [Octa_0.1.0_x64_en-US.msi](https://github.com/Moshiour027/octa-releases/releases/latest/download/Octa_0.1.0_x64_en-US.msi) |
+| Linux | [Octa_0.1.0_amd64.deb](https://github.com/Moshiour027/octa-releases/releases/latest/download/Octa_0.1.0_amd64.deb) |
 
 ## License
 
