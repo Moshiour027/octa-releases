@@ -1,5 +1,11 @@
 # Octa Releases - Claude Context
 
+> **Related Contexts:**
+> - Source code & full docs: `octa/CLAUDE.md` in `techyowls-branding` repo
+> - Brand-wide context: `techyowls-branding/CLAUDE.md`
+
+---
+
 ## Overview
 
 This is the **public releases repository** for Octa. It contains:
