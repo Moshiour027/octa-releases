@@ -109,7 +109,7 @@ To update:
 |----------|-----|
 | Source Code (private) | https://github.com/Moshiour027/octa |
 | Landing Page | https://octa.techyowls.io |
-| Purchase | https://techyowls.lemonsqueezy.com/buy/90f03bd0-7801-4aa1-bfb9-e24ebdac4185 |
+| Purchase | https://techyowls.lemonsqueezy.com/buy/a565d154-17a0-442a-96cd-03fc7b1c0c55 |
 
 ---
 
